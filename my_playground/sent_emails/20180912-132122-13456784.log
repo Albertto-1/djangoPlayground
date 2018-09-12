@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: alberttomarvel@gmail.com
+Date: Wed, 12 Sep 2018 18:21:22 -0000
+Message-ID: <153677648246.7000.11093356586322063043@DESKTOP-N3RP3QC>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/MQ/4zj-1902c891e28e33f26a97/
+
+Your username, in case you've forgotten: alber
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
